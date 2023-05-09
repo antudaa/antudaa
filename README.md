@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antudaa&label=Profile%20views&color=0e75b6&style=flat" alt="antudaa" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Typescript & Next.js**
 
 - 👨‍💻 All of my projects are available at [....](....)
 
