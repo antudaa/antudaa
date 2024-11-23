@@ -25,7 +25,7 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Webpack" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
