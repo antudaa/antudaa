@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Typescript & Next.js**
 
-- 👨‍💻 All of my projects are available at [....](....)
+- 👨‍💻 All of my projects are available at [....](https://github.com/antudaa?tab=repositories)
 
-- 💬 Ask me about **Web , MERN**
+- 💬 Ask me about **Development**
 
-- 📫 How to reach me **antu.haks@gmail.com**
+- 📫 How to reach me **antu.haks@gmail.com / antu.programmer@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1txf7Xzp2L3_dUFgcABQ1ZkGgWpIwfvmi6edArh-m6PY/edit?usp=sharing](https://docs.google.com/document/d/1txf7Xzp2L3_dUFgcABQ1ZkGgWpIwfvmi6edArh-m6PY/edit?usp=sharing)
 
@@ -50,11 +50,10 @@
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Expressjs-white?style=flat-square&logo=express&logoColor=black" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antudaa&show_icons=true&locale=en&layout=compact" alt="antudaa" /></p>
