@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Antu Das GitHub README header image">
+<img src="https://github.com/antudaa/antudaa/blob/main/Antu-Github_Banner.png" alt="Antu Das GitHub README header image">
 
 <h1 align="center">Hi 👋, I'm ANTU DAS</h1>
 <h3 align="center">A Passionate Front-End Developer From Bangladesh</h3>
