@@ -25,10 +25,10 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Webpack" src="https://img.shields.io/badge/-C-8DD6F9?style=flat-square&logo=c&logoColor=white" /> 
-  <img alt="Webpack" src="https://img.shields.io/badge/-Java-8DD6F9?style=flat-square&logo=java&logoColor=white" /> 
-  <img alt="Webpack" src="https://img.shields.io/badge/-Python-8DD6F9?style=flat-square&logo=python&logoColor=white" /> 
-  <img alt="Webpack" src="https://img.shields.io/badge/-JavaScript-8DD6F9?style=flat-square&logo=javascript&logoColor=white" /> 
+  <img alt="C" src="https://img.shields.io/badge/-C-8DD6F9?style=flat-square&logo=c&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-F9A03C?style=flat-square&logo=java&logoColor=white" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-CSS3-8DD6F9?style=flat-square&logo=css3&logoColor=white" />
