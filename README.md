@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **antu.haks@gmail.com / antu.programmer@gmail.com**
 
-- 📄 Know about my experiences [[View Resume](https://docs.google.com/document/d/1txf7Xzp2L3_dUFgcABQ1ZkGgWpIwfvmi6edArh-m6PY/edit?usp=sharing](https://drive.google.com/file/d/1W7REJu74R73kzBNhcFNXs4LcSwUNVXG0/view?usp=sharing))
+- 📄 Know about my experiences [[View Resume](https://drive.google.com/file/d/1W7REJu74R73kzBNhcFNXs4LcSwUNVXG0/view?usp=sharing))
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
