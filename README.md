@@ -1,8 +1,5 @@
 <img src="https://github.com/antudaa/antudaa/blob/main/Antu-Github_Banner.png" alt="Antu Das GitHub README header image">
 
-<h1 align="center">Hi 👋, I'm ANTU DAS</h1>
-<h3 align="center">A Passionate Front-End Developer From Bangladesh</h3>
-
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antudaa&label=Profile%20views&color=0e75b6&style=flat" alt="antudaa" /> </p>
@@ -15,7 +12,7 @@
 
 - 📫 How to reach me **antu.haks@gmail.com / antu.programmer@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1txf7Xzp2L3_dUFgcABQ1ZkGgWpIwfvmi6edArh-m6PY/edit?usp=sharing](https://docs.google.com/document/d/1txf7Xzp2L3_dUFgcABQ1ZkGgWpIwfvmi6edArh-m6PY/edit?usp=sharing)
+- 📄 Know about my experiences [[View Resume](https://docs.google.com/document/d/1txf7Xzp2L3_dUFgcABQ1ZkGgWpIwfvmi6edArh-m6PY/edit?usp=sharing](https://drive.google.com/file/d/1W7REJu74R73kzBNhcFNXs4LcSwUNVXG0/view?usp=sharing))
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
